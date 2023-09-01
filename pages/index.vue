@@ -45,6 +45,11 @@ defineCustomElements();
             <p class="mt-5">
                 Zero Configuration
             </p>
+            <p class="mt-5">
+                <a href="#">View More Demo ..</a>
+            </p>
+
+            <a href="https://github.com/tomexsans/nuxtjs-vidstack-tailwind-demo">by @tomexsans</a>
         </section>
     </div>
   </template>
